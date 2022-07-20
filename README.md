@@ -19,8 +19,8 @@ The project will take data from several CSV files and plot the increasing levels
 This is a project for Code Kentucky's Data Analysis Course 1.
  
 
-**Spreadsheets**
-`assets` folder contains the CSVs uploaded from Our World in Data (ourworldindata.org).
+**Spreadsheets** /n
+The `assets` folder contains the CSVs uploaded from Our World in Data (ourworldindata.org). Also included is an Excel spreadsheet with data gathered from https://www.sciencedirect.com/science/article/pii/S0025326X19310148?via%3Dihub.
 
 ## Running the Program
 
@@ -30,14 +30,14 @@ Python 3 is required. To download the current version, please [click here](https
 
 2. Install the requirements from the `Plastic-Pollution-Oceans` folder.
 
-    The following packages will be required to run the program:
-        pandas
-        numby
-        matplotlib.pyplot
-        seaborn
-        plotly.express
-        basemap
-        IPython
+    The following packages will be required to run the program: 
+        pandas /n
+        numby /n
+        matplotlib.pyplot /n
+        seaborn /n
+        plotly.express /n
+        basemap /n
+        IPython /n
 
 
 ## Code Kentucky Requirements
@@ -55,4 +55,4 @@ The following requirements have been met with this project:
 
 ## Acknowledgements
 
-The data used in this project was obtained from Our World in Data (ourworldindata.org).
+The code developed in this project is my own. The data used was obtained from Our World in Data (ourworldindata.org) and https://www.sciencedirect.com/science/article/pii/S0025326X19310148?via%3Dihub.
