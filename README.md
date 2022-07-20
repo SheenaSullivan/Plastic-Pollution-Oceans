@@ -11,6 +11,7 @@ This project will document the amount of plastic pollution in our oceans and the
  2. Which rivers emit the most plastics to the oceans. 
  3. Which countries emit the most plastic to the ocean. 
  4. Which oceans have the most plastic waste? 
+ 5. How does this impact marine wildlife?
 
  
 The project will take data from several CSV files and plot the increasing levels of plastics in the ocean and the largest contributing countries.
@@ -36,13 +37,13 @@ Python 3 is required. To download the current version, please [click here](https
         seaborn
         plotly.express
         basemap
+        IPython
 
 
 ## Code Kentucky Requirements
 
 The following requirements have been met with this project:
 * Category 1:
-   * Make a list, dictionary, tuple, or other standard python data structure to read in data for your program. 
    * Read in data from a local csv, excel file, json, or any other file type.
 * Category 2:
     * Use built-in pandas or numpy functions
