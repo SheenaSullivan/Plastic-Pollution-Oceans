@@ -43,7 +43,7 @@ Python 3 is required. To download the current version, please [click here](https
         basemap, 
         IPython. 
 
-4. You may run either the `plastic_pollution_oceans.ipynb` or the `plastic_pollution_oceans.py` file.
+
 
 ## Code Kentucky Requirements
 
