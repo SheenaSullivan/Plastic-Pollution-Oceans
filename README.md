@@ -62,7 +62,7 @@ The following requirements have been met with this project:
 
 The code developed in this project is my own. The data used was obtained from Our World in Data (ourworldindata.org) and https://www.sciencedirect.com/science/article/pii/S0025326X19310148?via%3Dihub.
 
-![Screenshot](barh1.png)
-![Screenshot](barh2.png)
-![Screenshot](basemap.png)
-![Screenshot](bar.png)
+![Screenshot](assets\barh1.png)
+![Screenshot](assets\barh2.png)
+![Screenshot](assets\basemap.png)
+![Screenshot](assets\bar.png)
