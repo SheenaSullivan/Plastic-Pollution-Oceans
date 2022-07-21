@@ -32,7 +32,7 @@ Python 3 is required. To download the current version, please [click here](https
 
 3. Install the requirements from the `Plastic-Pollution-Oceans` folder. 
 
-        ** To install required packages from the `requirements.txt` run  `pip install -r requirements.txt` or `pip3 install -r requirements.txt`. 
+     To install required packages from the `requirements.txt` run  `pip install -r requirements.txt` or `pip3 install -r requirements.txt`. 
 
     The following packages will be required to run the program: 
         pandas, 
