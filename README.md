@@ -3,7 +3,7 @@ by Sheena Sullivan
 
 ### About
 
-Plastic waste is increasing at an alarming rate and impacting our environent. We have to seek alternative to plastic usage and save our oceans and marine wildlife.
+Plastic waste is increasing at an alarming rate and impacting our environment. We must seek alternative to plastic usage and save our oceans and marine wildlife.
 
 This project will document the amount of plastic pollution in our oceans and the largest contributors and will answer the following questions:
 
@@ -28,7 +28,11 @@ Python 3 is required. To download the current version, please [click here](https
 
 1. Download or clone the project from GitHub [here](https://github.com/SheenaSullivan/Plastic-Pollution-Oceans.git). 
 
-2. Install the requirements from the `Plastic-Pollution-Oceans` folder.
+2. Optional: Install a virtual environment. Instructions can be found [here](https://docs.python.org/3/library/venv.html).
+
+3. Install the requirements from the `Plastic-Pollution-Oceans` folder. 
+
+        ** To install required packages from the `requirements.txt` run  `pip install -r requirements.txt` or `pip3 install -r requirements.txt`. 
 
     The following packages will be required to run the program: 
         pandas, 
@@ -39,6 +43,7 @@ Python 3 is required. To download the current version, please [click here](https
         basemap, 
         IPython. 
 
+4. You may run either the `plastic_pollution_oceans.ipynb` or the `plastic_pollution_oceans.py` file.
 
 ## Code Kentucky Requirements
 
