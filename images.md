@@ -1,2 +1,0 @@
-
-![bar](assets/bar.png)
