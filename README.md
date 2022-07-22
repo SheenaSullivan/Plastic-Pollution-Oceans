@@ -67,6 +67,6 @@ The code developed in this project is my own. The data used was obtained from Ou
 ![basemap](assets/basemap.PNG)
 ![bar](assets/bar.PNG)
 
-<img src="https://github.com/SheenaSullivan/Plastic-Pollution-Oceans/blob/11c5ff80ca6d8472bf5d9d955e85f013f14e0e71/assets/bar1.PNG" width=50% height=50%>
+<img src="/assets/bar1.PNG" width=50% height=50%>
 
 
